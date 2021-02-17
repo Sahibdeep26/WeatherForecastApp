@@ -11,3 +11,5 @@ changes you have implemented on live server.
 
 - If you want you can also you different weather api's. The link of the api, I have provided in the script.js file just happens to be free thats why I used that, which is why it
 might not be always correct.
+
+- The images used in this weather app are all from https://www.pexels.com/ and are free
