@@ -1,6 +1,6 @@
 # WeatherForecastApp
 This is a very simple HTML, CSS and Javascript based Weather Forecast App.
-I have coded this project with the help of Youtube, Stackoverflow and many more coding sites.
+I have coded this project with the help of Stackoverflow and many more coding sites.
 
 PLEASE REMEBER:
 
